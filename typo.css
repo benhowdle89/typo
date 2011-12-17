@@ -11,6 +11,18 @@
 	font: bold 100% "Rockwell", serif; text-transform: uppercase; text-shadow: 0 1px 0 white;
 }
 
+/* Credit to Adrian Le Bas http://adrians.info/ */
+.threed {
+	font: bold 100px/200px sans-serif;
+	color:#FF9933;
+	text-shadow: 0 1px 0 #E68A2E,
+	1px 2px  #CC7A29,
+	2px 3px  #B26B24,
+	3px 4px  #995C1F,
+	4px 5px  #804C1A,
+	7px 8px 10px rgba(0,0,0,0.4);
+}
+
 .capitalize {
 	text-transform: capitalize;
 }
