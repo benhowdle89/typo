@@ -6,6 +6,11 @@
 	text-transform: uppercase;
 }
 
+/* Credit to Christopher Burton http://christopherburton.net/ */
+.letterpress {
+	font: bold 100% "Rockwell", serif; text-transform: uppercase; text-shadow: 0 1px 0 white;
+}
+
 .capitalize {
 	text-transform: capitalize;
 }
